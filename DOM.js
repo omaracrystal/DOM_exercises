@@ -17,3 +17,5 @@ list[3].onclick = function (){
 //select an element in list and renaming it
 var essentials = document.getElementById("essentials")
 essentials.getElementsByTagName("li")[0].innerHTML = "Apple";
+
+//
